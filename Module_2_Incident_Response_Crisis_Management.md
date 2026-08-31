@@ -93,10 +93,3 @@ I would rather give the client an early, factual notification than delay and lat
 
 ---
 
-## Bottom Line
-
-**GCP incident:** likely reportable → notify Harmoni and continue investigation.
-
-**Laptop:** investigate first → encryption may prevent notification, but the unlocked session needs to be assessed.
-
-**Priority:** contain the GCP compromise immediately, revoke laptop access in parallel, preserve evidence, and involve privacy/legal early.
