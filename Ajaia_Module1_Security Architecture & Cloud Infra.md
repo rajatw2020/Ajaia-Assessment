@@ -4,7 +4,7 @@
 
 Ajaia is an AI consultancy operating workloads across GCP and Azure. The environment currently has several high-risk security gaps involving excessive IAM privileges, exposed secrets, publicly reachable databases, weak endpoint and AKS controls, and inadequate backup and software supply-chain protections.
 
-The 90-day security program should prioritize reducing blast radius, eliminating public exposure of sensitive data, establishing identity-based access, hardening workloads and endpoints, and improving recovery and supply-chain assurance.
+The focus over the next 90 days will be to reduce the overall security exposure, close the most critical gaps around sensitive data and access, strengthen workload and endpoint security, and improve our ability to recover from incidents.
 
 ## 2. Five Most Critical Security Risks
 
